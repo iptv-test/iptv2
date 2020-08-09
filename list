@@ -7,3 +7,5 @@ http://reds.ppdn.tn/iptv/ch207?code=860127675941345&key=60629
 http://reds.ppdn.tn/iptv/ch240?code=860127675941345&key=47663
 #EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="BeIN Sports 1" group-title="FR" audio-track="fr", BeIN Sports 1
 http://reds.ppdn.tn/iptv/ch119?code=860127675941345&key=60315
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+" group-title="FR" audio-track="fr", CANAL+
+http://reds.ppdn.tn/iptv/ch200?code=860127675941345&key=21922
