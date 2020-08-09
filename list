@@ -13,3 +13,7 @@ http://reds.ppdn.tn/iptv/ch200?code=860127675941345&key=21922
 http://reds.ppdn.tn/iptv/ch209?code=860127675941345&key=36897
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="FR" audio-track="fr", France 3
 http://reds.ppdn.tn/iptv/ch210?code=860127675941345&key=63385
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="National Geographic" group-title="FR" audio-track="fr", National Geographic
+http://reds.ppdn.tn/iptv/ch235?code=860127675941345&key=25984
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="FR" audio-track="fr", LCI
+http://reds.ppdn.tn/iptv/ch298?code=460134681276956&key=45815
