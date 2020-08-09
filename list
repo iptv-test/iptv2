@@ -17,3 +17,5 @@ http://reds.ppdn.tn/iptv/ch210?code=860127675941345&key=63385
 http://reds.ppdn.tn/iptv/ch235?code=860127675941345&key=25984
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="FR" audio-track="fr", LCI
 http://reds.ppdn.tn/iptv/ch298?code=460134681276956&key=45815
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="FR" audio-track="fr", France 4
+http://reds.ppdn.tn/iptv/ch219?code=460134681276956&key=33142
