@@ -1,5 +1,5 @@
 #EXTM3U	
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="FR" audio-track="fr",-Chaine France-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FR" audio-track="fr",-Chaine France-
 https://test.com
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="FR" audio-track="fr",M6
 http://www.esuniptv.com:5555/12x0209q124/V8FM5CNbpo/147791
@@ -23,9 +23,10 @@ http://reds.ppdn.tn/iptv/ch219?code=460134681276956&key=33142
 https://rt-france-gd.secure2.footprint.net/1107.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="FR" audio-track="fr",TMC
 http://reds.ppdn.tn/iptv/ch217?code=860127675941345&key=12350
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="w9" group-title="FR" audio-track="fr",w9
+http://reds.ppdn.tn/iptv/ch220?code=46013468109826&key=27998
 
-
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="FR" audio-track="fr",-Chaine Sports-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FR" audio-track="fr",-Chaine Sports-
 https://test.com
 #EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="BeIN Sports 1" group-title="FR" audio-track="fr",BeIN Sports 1
 http://reds.ppdn.tn/iptv/ch119?code=860127675941345&key=60315
