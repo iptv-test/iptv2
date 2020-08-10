@@ -69,7 +69,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="",Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:-1 tvg-id="Iqraa.net" tvg-name="Iqraa" group-title="" audio-track="AR",Iqraa
+#EXTINF:-1 tvg-id="Iqraa.net" tvg-name="Iqraa" group-title="AR" audio-track="AR",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="BeIN Sports 1" group-title="FR" audio-track="fr",BeIN Sports 1
 http://reds.ppdn.tn/iptv/ch119?code=860127675941345&key=60315
