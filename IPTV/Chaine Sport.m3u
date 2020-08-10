@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="BeIN Sports 1" group-title="FR" audio-track="fr",BeIN Sports 1
+http://reds.ppdn.tn/iptv/ch119?code=860127675941345&key=60315
+#EXTINF:0 tvg-id="beINSport2.fr" tvg-name="BeIN Sports 2" group-title="FR" audio-track="fr",BeInSport 2 FR
+http://reds.ppdn.tn/iptv/ch120?code=460134681276956&key=12434
+#EXTINF:0 tvg-id="beINSport3.fr" tvg-name="BeIN Sports 3" group-title="FR" audio-track="fr",BeInSport 3 FR
+http://reds.ppdn.tn/iptv/ch206?code=460134681276956&key=38942

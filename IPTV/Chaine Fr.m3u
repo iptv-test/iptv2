@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="FR" audio-track="fr",M6
+http://www.esuniptv.com:5555/12x0209q124/V8FM5CNbpo/147791
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="FR" audio-track="fr",TF1
+http://reds.ppdn.tn/iptv/ch207?code=860127675941345&key=60629
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network (France)" group-title="FR" audio-track="fr",Cartoon Network
+http://reds.ppdn.tn/iptv/ch240?code=860127675941345&key=47663
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+" group-title="FR" audio-track="fr",CANAL+
+http://reds.ppdn.tn/iptv/ch200?code=860127675941345&key=21922
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="FR" audio-track="fr",France 2
+http://reds.ppdn.tn/iptv/ch209?code=860127675941345&key=36897
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="FR" audio-track="fr",France 3
+http://reds.ppdn.tn/iptv/ch210?code=860127675941345&key=63385
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="National Geographic" group-title="FR" audio-track="fr",National Geographic
+http://reds.ppdn.tn/iptv/ch235?code=860127675941345&key=25984
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="FR" audio-track="fr",LCI
+http://reds.ppdn.tn/iptv/ch298?code=460134681276956&key=45815
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="FR" audio-track="fr",France 4
+http://reds.ppdn.tn/iptv/ch219?code=460134681276956&key=33142
+#EXTINF:0 tvg-name="Russia today France" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/cOG7OSB.png" group-title="News",RT France
+https://rt-france-gd.secure2.footprint.net/1107.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="FR" audio-track="fr",TMC
+http://reds.ppdn.tn/iptv/ch217?code=860127675941345&key=12350
