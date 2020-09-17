@@ -117,7 +117,7 @@ https://s1.tntendirect.com/france3/live/playlist.m3u8
 https://s1.tntendirect.com/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France 5 FR" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="",France 5
 https://s1.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France O FR" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="",France Ô
+#EXTINF:-1 tvg-id="France O FR" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="",France O
 https://s1.tntendirect.com/franceo/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte FR" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="",Arte
 https://s1.tntendirect.com/arte/live/playlist.m3u8
@@ -151,7 +151,7 @@ http://163.172.43.207:8081/france3/live/playlist.m3u8
 http://163.172.43.207:8081/france4/live/playlist.m3u8
 #EXTINF:-1,France 5
 http://163.172.43.207:8081/france5/live/playlist.m3u8
-#EXTINF:-1,France Ô
+#EXTINF:-1,France O
 http://163.172.43.207:8081/franceo/live/playlist.m3u8
 #EXTINF:-1,Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
@@ -161,7 +161,7 @@ http://163.172.43.207:8081/6ter/live/playlist.m3u8
 http://163.172.43.207:8081/arte/live/playlist.m3u8
 #EXTINF:-1,TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1,TF1 Séries Films
+#EXTINF:-1,TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1,TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
